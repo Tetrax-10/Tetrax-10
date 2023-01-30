@@ -11,7 +11,7 @@
 </br>
 
 # What am I doing now 🤔?
-[![Discord Presence](https://lanyard.kyrie25.me/api/1040249560418750536?bg=282a36&gradient=F27294-F27294&&waveSpotifyColor=F27294&waveColor=F27294)](https://discord.com/users/1040249560418750536)
+[![Discord Presence](https://lanyard.kyrie25.me/api/1040249560418750536?bg=282a36&gradient=DD6387-DD6387&&waveSpotifyColor=DD6387&waveColor=DD6387)](https://discord.com/users/1040249560418750536)
 
 </br>
 
