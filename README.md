@@ -8,6 +8,13 @@
 - 🎵 A Music Lover, who can't Stop listening to Music
 - 🎮 My Favorite Game is Red Dead Redemption 2
 
+</br>
+
+# What am I doing now 🤔?
+[![Discord Presence](https://lanyard.kyrie25.me/api/1040249560418750536)](https://discord.com/users/1040249560418750536)
+
+</br>
+
 # Stats
 ![Raghavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetrax-10&show_icons=true&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetrax-10&layout=compact&theme=dracula&langs_count=8)
