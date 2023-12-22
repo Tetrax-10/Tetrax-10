@@ -10,8 +10,12 @@
 </br>
 
 # My Favorite Projects
-[![Nord-Spotify](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Nord-Spotify&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Nord-Spotify)
-[![Spicetify-Extensions](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Spicetify-Extensions&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Spicetify-Extensions)
+[![Nord Spotify](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Nord-Spotify&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Nord-Spotify)
+[![Spicetify Extensions](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Spicetify-Extensions&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Spicetify-Extensions)
+[![Batch Preview Generator](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=batch-preview-generator&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/batch-preview-generator)
+[![Movie Linker extension](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=movie-linker&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/movie-linker)
+[![IMDB Clean as Fuck](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=imdb-clean-as-fuck&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/imdb-clean-as-fuck)
+[![Spicetify CSS Map Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=spicetify-css-map-analyzer&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/spicetify-css-map-analyzer)
 
 </br>
 
