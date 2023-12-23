@@ -9,7 +9,7 @@
 
 </br>
 
-**For *Freelancing* like personal website, tools, scripts message me on reddit [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10)**
+**For *Freelancing* like personal website, tools, scripts message me on reddit [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10)** or send friend request to `@tetrax10` on Discord
 
 You can also sponsor me to continue any of my archived projects like [Nord Spotify](https://github.com/Tetrax-10/Nord-Spotify), [Spicetify Extensions](https://github.com/Tetrax-10/Spicetify-Extensions)
 
