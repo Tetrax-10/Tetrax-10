@@ -9,7 +9,7 @@
 
 </br>
 
-For freelancing like personal website, tools, scripts message me on reddit [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10)
+**For *Freelancing* like personal website, tools, scripts message me on reddit [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10)**
 
 </br>
 
