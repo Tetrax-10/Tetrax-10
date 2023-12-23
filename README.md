@@ -9,6 +9,10 @@
 
 </br>
 
+For freelancing like personal website, tools, scripts message me on reddit [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10)
+
+</br>
+
 # My Favorite Projects
 [![Nord Spotify](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Nord-Spotify&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Nord-Spotify)
 [![Spicetify Extensions](https://github-readme-stats.vercel.app/api/pin/?username=Tetrax-10&repo=Spicetify-Extensions&show_owner=true&theme=dracula)](https://github.com/Tetrax-10/Spicetify-Extensions)
