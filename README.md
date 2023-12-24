@@ -23,6 +23,12 @@ You can also sponsor me to continue any of my archived projects like [Nord Spoti
 
 </br>
 
+## Freelancing projects I have done that are open source
+
+1. [Batch metadata editor](https://github.com/Tetrax-10/batch-metadata-editor) for [POPE3909](https://xdaforums.com/m/pope3909.5120701/)
+
+</br>
+
 # Links
 [<img alt="Spotify" width="40px" src="assets/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
 [<img alt="Spotify" width="40px" src="assets/reddit.png" />](https://www.reddit.com/user/Raghavan_Rave10)
