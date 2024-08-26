@@ -18,5 +18,7 @@ You can also sponsor me to continue any of my archived projects like [Nord Spoti
 
 # Links
 
-[<img alt="Spotify" width="40px" src="assets/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
 [<img alt="Spotify" width="40px" src="assets/reddit.png" />](https://www.reddit.com/user/Raghavan_Rave10)
+[<img alt="Spotify" width="40px" src="assets/letterboxd.png" />](https://letterboxd.com/Raghavan_Rave/)
+[<img alt="Spotify" width="40px" src="assets/spotify.png" />](https://open.spotify.com/user/31ihiyobja76jv25r7j7oj6rmjdu)
+[<img alt="Spotify" width="40px" src="assets/tmdb.png" />](https://www.themoviedb.org/u/Raghavan_Rave)
